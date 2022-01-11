@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.app-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  color: white;
+  font-weight: inherit;
+  
+}
+.app-header .title{
+  font-size: 35px;
+  color: #f2fe0e;
+}
+.app-header .howMuch{
+  font-size: 20px;
+  color: rgb(255 76 35);
+}
+
+

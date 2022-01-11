@@ -1,0 +1,25 @@
+.all-buttons{
+    display: flex;
+    flex-direction: row;
+}
+.button{  
+  width: auto;
+  height: auto;
+  border: 1px solid rgb(43, 43, 43);
+  background-color: black;
+  color: white;
+  padding: 10px;
+  transition-duration: 0.5s;
+
+}
+.button-active{
+    width: auto;
+  height: auto;
+  border: 1px solid rgb(43, 43, 43);
+  background-color: rgb(95, 114, 255);
+  color: white;
+  padding: 10px;
+}
+.button:hover{
+  background-color: rgb(95, 114, 255);
+}

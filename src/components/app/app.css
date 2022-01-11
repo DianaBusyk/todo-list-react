@@ -1,0 +1,19 @@
+
+.main{
+  background: rgba(0, 0, 0, 0.5);
+  max-width: 40vw;
+  margin: auto;
+
+}
+.todo-app {
+  margin: 2rem auto 0 auto;
+  padding: 30px;
+}
+
+.search{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0 20px 0 ;
+  
+}
+
