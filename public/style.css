@@ -1,6 +1,6 @@
 body {
   background-image: url("img/cover.png");
- background-repeat: no-repeat;
+  background-repeat: no-repeat;
   position: inherit;
   background-size: cover;
   background-attachment: fixed;
