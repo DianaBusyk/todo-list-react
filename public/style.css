@@ -1,8 +1,6 @@
 body {
-  background-image: url("https://blogs.baruch.cuny.edu/nma2050jerry17xianruichen1515/files/2019/08/videoblocks-network-on-a-black-background-cinematic-plexus-background-seamless-loop_hagskxz4rm_thumbnail-full01-1.png");
-  /* background-image: url('https://techvet.com.ua/images/Photo/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3/Rainbow-Flower.jpg'); */
- /* background-image: url('https://md-eksperiment.org/images/posts/04acb973-f635-4abd-b99d-e8227d81802d.png'); */
-  background-repeat: no-repeat;
+  background-image: url("img/cover.png");
+ background-repeat: no-repeat;
   position: inherit;
   background-size: cover;
   background-attachment: fixed;
