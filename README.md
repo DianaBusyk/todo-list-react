@@ -2,7 +2,7 @@
 <hr>
 
 # Description
-This project realized with React.
+This game is implemented using React.
 
 # How to use
 
@@ -13,7 +13,7 @@ This project realized with React.
 #### 5. Check which tasks are active or done
 #### 6. Delete tasks
 
-![video](https://media4.giphy.com/media/jGWAYzGumjluq0WFke/giphy.gif?cid=790b761172a9a4bbdeff9b029ea31ff20c1acbec90423573&rid=giphy.gif&ct=g)
+![video](https://media4.giphy.com/media/r7cZpZ0vzXtX7h7tbC/giphy.gif?cid=790b7611dd4d95e442c24fea508619970e31e4064f0ecdd9&rid=giphy.gif&ct=g)
 
 # How to install project
 
