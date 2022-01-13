@@ -2,7 +2,7 @@
 <hr>
 
 # Description
-This game is implemented using React.
+This project is implemented using React.
 
 # How to use
 
