@@ -6,7 +6,7 @@ It’s React application that helps manage your daily tasks.
 # How to use
 
 #### 1. Add new task
-#### 2. Search tasks by name
+#### 2. Search tasks by name (case-insensitive)
 #### 3. Mark task as completed
 #### 4. Mark as important
 #### 5. Check which tasks are active or done
