@@ -2,8 +2,7 @@
 <hr>
 
 # Description
-TodoList: It’s an application that helps manage your daily tasks. You can add new tasks in a list, search tasks by name (case-insensitive), mark tasks as completed or important, check which tasks are active or done and delete tasks. Tools used: React, JSX, CSS. 
-
+It’s React application that helps manage your daily tasks. 
 # How to use
 
 #### 1. Add new task
